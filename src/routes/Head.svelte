@@ -19,8 +19,13 @@
 
     <div class="collapse navbar-collapse d-lg-flex" id="navbarsExample11">
       <a class="navbar-brand col-lg-3 me-0" href="/"
-        ><img src={logo} alt="Logo" width="30" height="24" class="d-inline-block align-text-top" /> Centered
-        nav</a
+        ><img
+          src={logo}
+          alt="Logo"
+          width="30"
+          height="24"
+          class="d-inline-block align-text-top rounded-circle"
+        /> Centered nav</a
       >
       <ul class="navbar-nav col-lg-6 justify-content-lg-center">
         <li class="nav-item">
